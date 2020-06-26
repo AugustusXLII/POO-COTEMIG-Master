@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MySql.Data;
+using ProjetoMVC2020.DAL;
 
 namespace ProjetoMVC2020.BLL
 {
